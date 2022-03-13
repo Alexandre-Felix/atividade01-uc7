@@ -8,4 +8,4 @@ git branch -a
 git branch <nome da branch>
 git checkout <nome da branch>
 git merge develop
-  git push -u origin main
+  git push origin main
